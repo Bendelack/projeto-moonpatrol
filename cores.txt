@@ -1,7 +1,0 @@
-ceú -> 0x00000000 (0)
-montanhas -> 0x00302098 (1)
-estrada -> 0x006d9951 (2)
-carro -> 0x00d07070 (3)
-score -> 0x00b89c58 (4)
-nave1 -> 0x00ffffff (5)
-nave2 -> 0x00d0b46c (7)
