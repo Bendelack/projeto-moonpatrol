@@ -1,5 +1,8 @@
 # Projeto da disciplina de Arquitetura de Computadores 2023.2 - Moon Patrol
 
+<img width="662" height="642" alt="image" src="https://github.com/user-attachments/assets/9af53690-10b9-4979-bed3-8cda4e308af6" />
+
+
 ## Esse projeto tem como objetivo o desenvolvimento do jogo Moon Patrol na linguagem de baixo nível Assembly.
 
 ## Roteiro - Moon Patrol em Assembly
@@ -30,3 +33,5 @@ Função AtirarNave: Essa função pode fazer duas coisas, dependendo se já há
 
 ## Considerações Finais
 Gostaria de enfatizar a importância desse projeto para o nosso aprendizado na arquitetura de computadores. Cada lista e cada avaliação desde o início do semestre foram muito importantes para entendermos o funcionamento do MIPS. Gostaria de ressaltar também a importância de uma turma unida, desde o primeiro dia de aula, que sem dúvidas, contribuiu para que tivéssemos excelentes projetos. Por fim, vale destacar também os ensinamentos e atenção do professor Eduardo Bráulio, além das suas belas palavras de motivação que nos fez acreditar que somos capazes de fazer qualquer coisa.
+
+Vídeo de Apresentação: [Moon Patrol em Assembly - Rick Hill](https://www.youtube.com/watch?v=fJZoJOEyPcs&authuser=1)
